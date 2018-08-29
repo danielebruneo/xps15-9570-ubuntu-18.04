@@ -9,3 +9,5 @@ Disable hardware accelartion in chrome://settings.
 # Last display line is green/rainbow on login screen
 Kernel 4.18.4 solved this.
 
+# CPU / GPU undervolting
+https://github.com/georgewhewell/undervolt
